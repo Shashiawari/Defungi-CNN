@@ -33,7 +33,7 @@ To get started with Defungi, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/defungi.git
+   git clone https://github.com/shashiawari/defungi.git
    ```
 
 2. Install the required dependencies:
